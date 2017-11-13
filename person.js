@@ -11,4 +11,4 @@ class Person {
     }
 }
 
-var person = [];
+var people = [];
